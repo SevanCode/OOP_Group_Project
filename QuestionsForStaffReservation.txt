@@ -1,0 +1,5 @@
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Congratulations.
