@@ -1,3 +1,0 @@
-Do you want flowers in your event?
-1.Yes
-2.No
