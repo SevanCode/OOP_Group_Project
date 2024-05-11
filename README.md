@@ -1,4 +1,4 @@
 Authors:
-Sevan Rostami
-Serine Rostami
-Marie Hakobyan
+1.Sevan Rostami
+2.Serine Rostami
+3.Marie Hakobyan
