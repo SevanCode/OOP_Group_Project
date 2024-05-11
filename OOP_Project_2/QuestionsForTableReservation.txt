@@ -1,0 +1,3 @@
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.

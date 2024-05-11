@@ -1,0 +1,6 @@
+These are different types of flowers that we provide. Which ones would you like to reserve?
+1.Rose
+2.Tulips
+3.Lilies
+4.Sunflower
+5.Orchids

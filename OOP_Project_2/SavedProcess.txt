@@ -1,0 +1,4062 @@
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Please Try Again.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Event Removal
+4.Done
+You have not reserved any tables yet.
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Event Removal
+4.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Complete you reservation or remove it from the list of reservations, so you can quit.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+The total cost is :
+Please enter the amount
+Your change is :
+Thanks for your Reservation.
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Event Removal
+4.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Complete you reservation or remove it from the list of reservations, so you can quit.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Event Removal
+4.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Event Removal
+4.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+You have not reserved any tables yet.
+You have not reserved any staff yet.
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+Staff : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+Staff : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+You have not ordered for something yet.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+No reservations yet? Plan your dining experience with us now!
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+The total cost is :
+Please enter the amount
+Your change is :
+Thanks for your Reservation.
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+You have not reserved any tables yet.
+You have not reserved any staff yet.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+You have not reserved any tables yet.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+Staff : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+You have not ordered for something yet.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+No reservations yet? Plan your dining experience with us now!
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+The total cost is :
+Please enter the amount
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+The total cost is :
+Please enter the amount
+Your change is :
+Thanks for your Reservation.
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+You have not reserved any tables yet.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+Staff : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+You have not ordered for something yet.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+Staff : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+You have not ordered for something yet.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+Staff : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+The total cost is :
+Please enter the amount
+Please Try Again.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+The total cost is :
+Please enter the amount
+Your change is :
+Thanks for your Reservation.
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+E_Wedding_1.1.2000_$8000
+E_Wedding_13.4.2018_$7000
+E_Wedding_11.1.2019_$10000
+E_Wedding_7.9.2021_$6500
+E_Birthday_1.1.2000_$500
+E_Birthday_13.4.2018_$600
+E_Birthday_11.1.2019_$700
+E_Birthday_7.9.2021_$800
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+E_Wedding_1.1.2000_$8000
+E_Wedding_13.4.2018_$7000
+E_Wedding_11.1.2019_$10000
+E_Wedding_7.9.2021_$6500
+E_Birthday_1.1.2000_$500
+E_Birthday_13.4.2018_$600
+E_Birthday_11.1.2019_$700
+E_Birthday_7.9.2021_$800
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+E_Wedding_1.1.2000_$8000
+E_Wedding_13.4.2018_$7000
+E_Wedding_11.1.2019_$10000
+E_Wedding_7.9.2021_$6500
+E_Birthday_1.1.2000_$500
+E_Birthday_13.4.2018_$600
+E_Birthday_11.1.2019_$700
+E_Birthday_7.9.2021_$800
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+E_Wedding_1.1.2000_$8000
+E_Wedding_13.4.2018_$7000
+E_Wedding_11.1.2019_$10000
+E_Wedding_7.9.2021_$6500
+E_Birthday_1.1.2000_$500
+E_Birthday_13.4.2018_$600
+E_Birthday_11.1.2019_$700
+E_Birthday_7.9.2021_$800
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+E_Wedding_1.1.2000_$8000
+E_Wedding_13.4.2018_$7000
+E_Wedding_11.1.2019_$10000
+E_Wedding_7.9.2021_$6500
+E_Birthday_1.1.2000_$500
+E_Birthday_13.4.2018_$600
+E_Birthday_11.1.2019_$700
+E_Birthday_7.9.2021_$800
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+E_Wedding_1.1.2000_$8000
+E_Wedding_13.4.2018_$7000
+E_Wedding_11.1.2019_$10000
+E_Wedding_7.9.2021_$6500
+E_Birthday_1.1.2000_$500
+E_Birthday_13.4.2018_$600
+E_Birthday_11.1.2019_$700
+E_Birthday_7.9.2021_$800
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+E_Wedding_1.1.2000_$8000
+E_Wedding_13.4.2018_$7000
+E_Wedding_11.1.2019_$10000
+E_Wedding_7.9.2021_$6500
+E_Birthday_1.1.2000_$500
+E_Birthday_13.4.2018_$600
+E_Birthday_11.1.2019_$700
+E_Birthday_7.9.2021_$800
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+E_Wedding_1.1.2000_$8000
+E_Wedding_13.4.2018_$7000
+E_Wedding_11.1.2019_$10000
+E_Wedding_7.9.2021_$6500
+E_Birthday_1.1.2000_$500
+E_Birthday_13.4.2018_$600
+E_Birthday_11.1.2019_$700
+E_Birthday_7.9.2021_$800
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+E_Wedding_1.1.2000_$8000
+E_Wedding_13.4.2018_$7000
+E_Wedding_11.1.2019_$10000
+E_Wedding_7.9.2021_$6500
+E_Birthday_1.1.2000_$500
+E_Birthday_13.4.2018_$600
+E_Birthday_11.1.2019_$700
+E_Birthday_7.9.2021_$800
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+E_Wedding_1.1.2000_$8000
+E_Wedding_13.4.2018_$7000
+E_Wedding_11.1.2019_$10000
+E_Wedding_7.9.2021_$6500
+E_Birthday_1.1.2000_$500
+E_Birthday_13.4.2018_$600
+E_Birthday_11.1.2019_$700
+E_Birthday_7.9.2021_$800
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+E_Wedding_1.1.2000_$8000
+E_Wedding_13.4.2018_$7000
+E_Wedding_11.1.2019_$10000
+E_Wedding_7.9.2021_$6500
+E_Birthday_1.1.2000_$500
+E_Birthday_13.4.2018_$600
+E_Birthday_11.1.2019_$700
+E_Birthday_7.9.2021_$800
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+E_Wedding_1.1.2000_$8000
+E_Wedding_13.4.2018_$7000
+E_Wedding_11.1.2019_$10000
+E_Wedding_7.9.2021_$6500
+E_Birthday_1.1.2000_$500
+E_Birthday_13.4.2018_$600
+E_Birthday_11.1.2019_$700
+E_Birthday_7.9.2021_$800
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+E_Wedding_1.1.2000_$8000
+E_Wedding_13.4.2018_$7000
+E_Wedding_11.1.2019_$10000
+E_Wedding_7.9.2021_$6500
+E_Birthday_1.1.2000_$500
+E_Birthday_13.4.2018_$600
+E_Birthday_11.1.2019_$700
+E_Birthday_7.9.2021_$800
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Tables : None
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+Staff : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+1.Submit Reservation
+2.Go back to main menu
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Tables : None
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Tables : None
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Tables : None
+Staff : None
+The total cost is :
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Tables : None
+Staff : None
+The total cost is :
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Tables : None
+Staff : None
+The total cost is :
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Please Try Again.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+1.Submit Reservation
+2.Go back to main menu
+The total cost is :
+Please enter the amount
+Your change is :
+Thanks for your Reservation.
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Please enter the date of reservation.
+How many waiters would you like to reserve?
+How many Chiefs would you like to reserve?
+How many guests do you have?
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which one do you want to remove?
+You successfully removed a reservation.
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Tables : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+1.Submit Reservation
+2.Go back to main menu
+The total cost is :
+Please enter the amount
+Your change is :
+Thanks for your Reservation.
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+Please enter the date of reservation.
+Please enter the number of the table you want to reserve.
+Congratulations.
+Congratulations.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+1.Submit Reservation
+2.Go back to main menu
+1.Submit Reservation
+2.Go back to main menu
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Complete you reservation or remove it from the list of reservations, so you can quit.
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Staff : None
+The total cost is :
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+Welcome!
+Which Option Do You want to Choose?
+1.Table_Reservation
+2.Staff_Reservation
+3.Report
+4.Remove Form Reserved
+5.Complete Reservation
+6.Quit
+T_1_15.03.2005_$30
+T_2_20.11.1998_$20
+T_3_10.5.2010_$25
+T_4_05.12.1987_$10
+T_5_25.9.2002_$11
+T_6_03.7.1995_$40
+T_7_12.8.2015_$35
+T_8_15.3.2005_$31
+T_9_07.10.1983_$65
+T_10_18.1.2019_$80
+T_11_11.1.2019_$75
+T_12_7.11.2010_$100
+T_13_1.1.2000_$100
+T_14_7.9.2021_$70
+T_15_30.6.2017_$50
+W_Jake_7.9.2021_$15
+W_Sofia_7.9.2021_$15
+W_Marcus_7.9.2021_$15
+W_Emily_15.3.2005_$15
+W_Liam_15.3.2005_$15
+W_Olivia_1.2.2024_$15
+W_Ethan_1.2.2024_$15
+W_Mila_1.2.2024_$15
+W_Noah_11.1.2019_$15
+W_Ava_11.1.2019_$15
+C_Sebastian_7.9.2021_$200
+C_Isabella_15.3.2005_$200
+C_Xavier_7.9.2021_$200
+C_Gabriella_7.9.2021_$200
+C_Mateo_11.1.2019_$200
+C_Natali_11.1.2019_$200
+No reservations yet? Plan your dining experience with us now!

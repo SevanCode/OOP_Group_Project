@@ -1,0 +1,1 @@
+Complete you reservation or remove it from the list of reservations, so you can quit.

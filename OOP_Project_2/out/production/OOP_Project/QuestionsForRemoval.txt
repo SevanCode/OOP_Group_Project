@@ -1,0 +1,4 @@
+Which options would you like to remove? Or if you are done please select Done.
+1.Table Removal
+2.Staff Removal
+3.Done

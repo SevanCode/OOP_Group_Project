@@ -1,0 +1,6 @@
+In which color would you like your balloons to be?
+1.RED
+2.BLUE
+3.YELLOW
+4.PINK
+5.GREEN
